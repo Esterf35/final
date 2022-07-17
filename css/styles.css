@@ -10947,10 +10947,20 @@ p {
 .page-section {background-color:#e9ecef ;
   padding: 4rem 0;
 }
+.contacto1{
+  text-align: center;
+}
+.contenedor-contacto{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+
 .page-section h2.section-heading, .page-section .section-heading.h2 {
   font-size: 2.5rem;
   margin-top: 0;
-  margin-bottom: 6rem;text-align:center;
+  margin-bottom: 1rem;text-align:center;
 }
 .page-section h3.section-subheading, .page-section .section-subheading.h3 {
   font-size: 1,5rem;
